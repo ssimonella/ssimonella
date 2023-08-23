@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssimonella
 - 👀 I’m interested in sports & travel & engineering
-- 🌱 I’m currently learning ...cripto & peogramming
+- 🌱 I’m currently learning ...cripto & programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...simonella@sapo.pt
 
